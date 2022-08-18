@@ -1,1 +1,3 @@
-
+The picture must be placed in a folder named "www" in order to be recognised by Shiny.
+The output of this code can be seen at:
+https://fullmetaldatascientist.shinyapps.io/Descriptive_MCI_Users_Plot/
